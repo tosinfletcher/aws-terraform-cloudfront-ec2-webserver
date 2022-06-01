@@ -6,6 +6,7 @@ Prerequisite:
 
 1.  Terraform
 2.  AWS CLI
+3.  Pre-created EC2 keypair
 
 USAGE:
  
