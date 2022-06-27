@@ -10,7 +10,7 @@ Prerequisite:
             2.  AWS CLI
             3.  Pre-created EC2 keypair
 
-USAGE:
+Usage:
  
 2.  Initialize terraform
     
