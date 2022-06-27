@@ -4,6 +4,8 @@ This following terraform IaaC is used to deploy a webserver that run and AWS EC2
 
 Prerequisite:
 
+1.    Ensure you have the following installed and configured
+
       1.  Terraform
       2.  AWS CLI
       3.  Pre-created EC2 keypair
