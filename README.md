@@ -6,9 +6,9 @@ Prerequisite:
 
 1.    Ensure you have the following installed and configured
 
-      1.  Terraform
-      2.  AWS CLI
-      3.  Pre-created EC2 keypair
+            1.  Terraform
+            2.  AWS CLI
+            3.  Pre-created EC2 keypair
 
 USAGE:
  
